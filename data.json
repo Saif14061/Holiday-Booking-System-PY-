@@ -1,0 +1,53 @@
+{
+    "Spain": {
+        "flight_price": 200,
+        "hotels": {
+            "1": {
+                "name": "Costa Del Sol Resort",
+                "price_per_week": 300
+            },
+            "2": {
+                "name": "Ibiza Grand Hotel",
+                "price_per_week": 700
+            },
+            "3": {
+                "name": "Barcelona City Inn",
+                "price_per_week": 200
+            }
+        }
+    },
+    "France": {
+        "flight_price": 120,
+        "hotels": {
+            "1": {
+                "name": "Paris Central",
+                "price_per_week": 450
+            },
+            "2": {
+                "name": "Nice Seaside Resort",
+                "price_per_week": 800
+            },
+            "3": {
+                "name": "Lyon Boutique Hotel",
+                "price_per_week": 350
+            }
+        }
+    },
+    "UK": {
+        "flight_price": 0,
+        "hotels": {
+            "1": {
+                "name": "London Park Plaza",
+                "price_per_week": 500
+            },
+            "2": {
+                "name": "Scottish Highlands Retreat",
+                "price_per_week": 650
+            },
+            "3": {
+                "name": "Cornwall Beach House",
+                "price_per_week": 400
+            }
+        }
+    }
+}
